@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[VAN SOEST]]></title>
         <description><![CDATA[VAN SOEST]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vansoest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 21:49:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 22:01:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vansoest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EVER.]]></title>
             <description><![CDATA[<article><h1>EVER.</h1><p>What's remarkable is that it doesn't end. The emails, the connects, the phone calls. The truth is, its never gonna "let up", or " slow down". There's just not enough time to ever take things slow. Dream your dreams. Work harder than everyone... do. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8365c38631daeefd7738b7481d11c7bdb0eacb29.jpg"></article>]]></description>
-            <link>undefinedever/index.html</link>
+            <link>https://thegrid.ai/vansoest/ever/index.html</link>
             <guid isPermaLink="false">8e9c5f4a-4665-4cab-8076-0671631f8300</guid>
             <pubDate>Wed, 06 Jan 2016 21:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VAN SOEST - The 5spot]]></title>
+            <description><![CDATA[<article><h1>VAN SOEST - The 5spot</h1><p>VAN SOEST at The 5spot.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07603a20-7844-4029-b8f9-f7f835fd73d0.JPG"></article>]]></description>
+            <link>https://thegrid.ai/vansoest/van-soest-the-5spot/index.html</link>
+            <guid isPermaLink="false">ad084a7b-9ff1-4b2a-ba43-f9cbb0472fdb</guid>
+            <pubDate>Wed, 06 Jan 2016 22:01:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
