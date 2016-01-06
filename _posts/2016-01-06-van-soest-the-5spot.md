@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T22:01:07.756Z'
-dateModified: '2016-01-06T22:00:39.999Z'
+datePublished: '2016-01-06T22:05:00.311Z'
+dateModified: '2016-01-06T22:03:58.521Z'
 title: VAN SOEST - The 5spot
 author: []
 authors: []
