@@ -1,0 +1,28 @@
+name: VANSOEST
+favicon: null
+layout_spectrum: 0.986894739093259
+typography_spectrum: 0.6977211239282042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.49581990856677294
+  lightness: 0.2968040588311851
+  saturation: 0.5410116447601467
+  rhythmicContrast: 0.7824534794781357
+purpose: []
